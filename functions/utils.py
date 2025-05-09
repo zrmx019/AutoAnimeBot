@@ -40,7 +40,7 @@ ABOUT = """
 • **💻 Server**: `{}`
 • **📖 Source Code** : {}
 
-~ **Developer**  __@Kaif_00z __
+~ **Developer**  __@Otakukart7 __
 """
 
 
