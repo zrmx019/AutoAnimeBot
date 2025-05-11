@@ -95,7 +95,7 @@ def generate_env():
     )
     with open(".env", "w") as f:
         f.write(txt.strip())
-    print("Succesfully Generated .env File Don't Forget To Save It! For Future Uses.")
+    print("Successfully Generated .env File. Don't forget to save it for future use!")
 
 
 async def auto_maker():
